@@ -1,0 +1,14 @@
+/* #0D3B66 */
+
+/* Top bar stylings */
+ .top-bar h3{
+    color: red;
+    font-weight: 300;
+ }
+ .top-bar a{
+    color: dimgrey;
+ }
+ .top-bar a:hover{
+    color: blueviolet;
+ }
+/*Top bar stylings  */
